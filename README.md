@@ -2,7 +2,10 @@
 
 ```
 code line 1
-code line 2 <pre><b>bold</b></pre>
+code line 2 
+<pre>
+<b>bold</b>
+</pre>
 ```
 
 
